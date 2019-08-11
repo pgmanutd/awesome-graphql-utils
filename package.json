@@ -1,0 +1,28 @@
+{
+  "name": "awesome-graphql-utils",
+  "version": "1.0.0",
+  "description": "Some awesome GraphQL utils 😉",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgmanutd/awesome-graphql-utils.git"
+  },
+  "keywords": [
+    "graphql",
+    "utils",
+    "compose",
+    "projection"
+  ],
+  "author": "pgmanutd <prashantmanunited@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgmanutd/awesome-graphql-utils/issues"
+  },
+  "homepage": "https://github.com/pgmanutd/awesome-graphql-utils#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
